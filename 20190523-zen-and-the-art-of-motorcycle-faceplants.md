@@ -23,6 +23,10 @@ class: center, middle, inverse
 ]
 
 .right-column[
+
+<img src="{{ site.baseurl }}/images/thats-all-folks.svg?sanitize=true" width="1025" height="561" />
+
+
 ![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg?sanitize=true)
 ]
 
@@ -32,8 +36,12 @@ class: center, middle, inverse
 
 ---
 
-[![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg?sanitize=true)](https://www.youtube.com/watch?v=b9434BoGkNQ "That's all Folks!")
+background-image: url(https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg?sanitize=true)
 
 ---
 
-![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/videos/thats-all-folks.mp4)
+class: middle, center
+
+<video width="1920" height="1080" autoplay>
+    <source src="{{ site.baseurl }}/videos/thats-all-folks.mp4" type="video/mp4">
+</video>
