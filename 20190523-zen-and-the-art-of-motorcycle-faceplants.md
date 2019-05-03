@@ -23,7 +23,7 @@ class: center, middle, inverse
 ]
 
 .right-column[
-![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg)
+![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg?sanitize=true)
 ]
 
 ---
@@ -32,7 +32,7 @@ class: center, middle, inverse
 
 ---
 
-[![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg)](https://www.youtube.com/watch?v=b9434BoGkNQ "That's all Folks!")
+[![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg?sanitize=true)](https://www.youtube.com/watch?v=b9434BoGkNQ "That's all Folks!")
 
 ---
 
