@@ -1,12 +1,14 @@
 name: inverse
 layout: true
 class: center, middle, inverse
+site:
+  baseurl: https://raw.githubusercontent.com/harmtemolder/presentations/master
 
 ---
 
-# Zen and the Art of Motorcycle Faceplants
+.title[Zen and the Art of Motorcycle Faceplants]
 
-## Harm te Molder
+.subtitle[Harm te Molder]
 
 .footnote[@ Ucademy]
 
@@ -26,8 +28,6 @@ class: center, middle, inverse
 
 <img src="{{ site.baseurl }}/images/thats-all-folks.svg?sanitize=true" width="1025" height="561" />
 
-
-![That's all Folks!](https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg?sanitize=true)
 ]
 
 ---
@@ -39,8 +39,6 @@ class: center, middle, inverse
 background-image: url(https://raw.githubusercontent.com/harmtemolder/presentations/master/images/thats-all-folks.svg?sanitize=true)
 
 ---
-
-class: middle, center
 
 <video width="1920" height="1080" autoplay>
     <source src="{{ site.baseurl }}/videos/thats-all-folks.mp4" type="video/mp4">
