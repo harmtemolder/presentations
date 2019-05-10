@@ -1,0 +1,27 @@
+/* Fonts */
+/* Colours */
+body {
+  color: #273E47;
+  font-family: "Roboto", sans-serif; }
+
+#slideshow .slide {
+  background-color: #D8C99B; }
+
+h1, h2, h3 {
+  font-family: "Rubik", sans-serif; }
+
+code {
+  font-family: "Ubuntu Mono", monospace; }
+
+a {
+  color: #BB1E10;
+  text-decoration: none; }
+
+/* images overlay */
+.imageWrapper {
+  position: relative; }
+
+.overlayImage {
+  position: absolute;
+  top: 0;
+  left: 0; }

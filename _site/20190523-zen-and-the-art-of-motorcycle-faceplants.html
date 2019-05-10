@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Zen and the Art of Motorcycle Faceplants</title>
+  <link href="styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <textarea id="source">
+name: title
+class: center, middle
+layout: true
+---
+template: title
+
+# Zen and the Art of Motorcycle Faceplants
+
+## Harm te Molder
+
+### BUas
+
+---
+
+---
+
+template: title
+
+background-image: url(/images/thats-all-folks.svg?sanitize=true)
+
+  </textarea>
+  <!-- <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script> -->
+  <script src="/scripts/remark-latest.min.js"></script>
+  <script>
+    var slideshow = remark.create({
+      ratio: "16:9",
+      slideNumberFormat: "", // Use %current% and %total%
+      cloneTarget: "_blank", // Not sure what this does...
+
+      // Code highlighting options:
+      highlightStyle: "monokai",
+      highlightLines: true,
+      highlightSpans: false,
+      highlightInlineCode: true,
+      highlightLanguage: "",
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,2 @@
+baseurl: /presentations
+# exclude: [node_modules, gulpfile.js, gulp, package.json]

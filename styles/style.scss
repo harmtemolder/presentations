@@ -1,0 +1,48 @@
+---
+---
+
+@charset "utf-8";
+
+/* Fonts */
+$bodyFont: 'Roboto', sans-serif;
+$titleFont: 'Rubik', sans-serif;
+$codeFont: 'Ubuntu Mono', monospace;
+
+/* Colours */
+$dark: #273E47;
+$medium: #BD632F;
+$light: #D8973C;
+$lightest: #D8C99B;
+$accent: #BB1E10;
+
+body {
+  color: $dark;
+  font-family: $bodyFont;
+}
+
+#slideshow .slide {
+  background-color: $lightest;
+}
+
+h1, h2, h3 {
+  font-family: $titleFont;
+}
+
+code {
+  font-family: $codeFont;
+}
+
+a {
+  color: $accent;
+  text-decoration: none;
+}
+/* images overlay */
+.imageWrapper {
+  position: relative;
+}
+
+.overlayImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

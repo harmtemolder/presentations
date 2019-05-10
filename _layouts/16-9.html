@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{{page.title}}</title>
+  <link href="styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <textarea id="source">
+name: title
+class: center, middle
+layout: true
+---
+{{ content }}
+  </textarea>
+  <!-- <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script> -->
+  <script src="{{  site.baseurl  }}/scripts/remark-latest.min.js"></script>
+  <script>
+    var slideshow = remark.create({
+      ratio: "16:9",
+      slideNumberFormat: "", // Use %current% and %total%
+      cloneTarget: "_blank", // Not sure what this does...
+
+      // Code highlighting options:
+      highlightStyle: "monokai",
+      highlightLines: true,
+      highlightSpans: false,
+      highlightInlineCode: true,
+      highlightLanguage: "",
+    });
+  </script>
+</body>
+
+</html>
