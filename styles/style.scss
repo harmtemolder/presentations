@@ -15,27 +15,48 @@ $light: #D8973C;
 $lightest: #D8C99B;
 $accent: #BB1E10;
 
+/* Regular colour scheme */
+
 body {
   color: $dark;
   font-family: $bodyFont;
+  font-weight: 400;
 }
 
-#slideshow .slide {
+.remark-slide-content {
   background-color: $lightest;
 }
 
 h1, h2, h3 {
   font-family: $titleFont;
+  font-weight: 700;
 }
+
+h1 em, h2 em, h3 em { color: $accent; }
+
+h1 strong, h2 strong, h3 strong {
+  font-weight: inherit;
+  color: $accent;
+}
+
+h1 { font-size: 3em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.6em; }
 
 code {
   font-family: $codeFont;
+  font-weight: 400;
 }
 
-a {
-  color: $accent;
-  text-decoration: none;
+a { color: $accent; }
+
+/* Inverse colour scheme*/
+
+.inverse {
+  background-color: $dark;
+  color: $lightest;
 }
+
 /* images overlay */
 .imageWrapper {
   position: relative;

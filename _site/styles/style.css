@@ -1,21 +1,45 @@
 /* Fonts */
 /* Colours */
+/* Regular colour scheme */
 body {
   color: #273E47;
-  font-family: "Roboto", sans-serif; }
+  font-family: "Roboto", sans-serif;
+  font-weight: 400; }
 
-#slideshow .slide {
+.remark-slide-content {
   background-color: #D8C99B; }
 
 h1, h2, h3 {
-  font-family: "Rubik", sans-serif; }
+  font-family: "Rubik", sans-serif;
+  font-weight: 700; }
+
+h1 em, h2 em, h3 em {
+  color: #BB1E10; }
+
+h1 strong, h2 strong, h3 strong {
+  font-weight: inherit;
+  color: #BB1E10; }
+
+h1 {
+  font-size: 3em; }
+
+h2 {
+  font-size: 2em; }
+
+h3 {
+  font-size: 1.6em; }
 
 code {
-  font-family: "Ubuntu Mono", monospace; }
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400; }
 
 a {
-  color: #BB1E10;
-  text-decoration: none; }
+  color: #BB1E10; }
+
+/* Inverse colour scheme*/
+.inverse {
+  background-color: #273E47;
+  color: #D8C99B; }
 
 /* images overlay */
 .imageWrapper {
