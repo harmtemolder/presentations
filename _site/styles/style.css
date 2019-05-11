@@ -1,10 +1,23 @@
 /* Fonts */
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700);
 /* Colours */
 /* Regular colour scheme */
 body {
+  background-color: #273E47;
   color: #273E47;
   font-family: "Roboto", sans-serif;
   font-weight: 400; }
+
+.remark-slides-area {
+  background-color: #273E47; }
+
+.remark-slide-scaler {
+  -moz-box-shadow: 0 0 30px #D8C99B;
+  -webkit-box-shadow: 0 0 30px #D8C99B;
+  box-shadow: 0 0 30px #D8C99B; }
 
 .remark-slide-content {
   background-color: #D8C99B; }
@@ -29,17 +42,39 @@ h2 {
 h3 {
   font-size: 1.6em; }
 
-code {
-  font-family: "Ubuntu Mono", monospace;
-  font-weight: 400; }
-
 a {
   color: #BB1E10; }
+
+blockquote {
+  font-family: "Vollkorn", serif;
+  font-size: 2em;
+  font-weight: 400; }
+
+blockquote a {
+  color: inherit;
+  text-decoration: inherit; }
+
+code {
+  font-family: "Ubuntu Mono", monospace; }
+
+.accent {
+  color: #BB1E10; }
+
+/* Colour lists one-by-one */
+.list.inverse h2 {
+  color: #416675; }
+
+.list.inverse h2:last-of-type {
+  color: #D8C99B; }
 
 /* Inverse colour scheme*/
 .inverse {
   background-color: #273E47;
   color: #D8C99B; }
+
+/*  White coulour scheme */
+.white, iframe {
+  background-color: #FFF; }
 
 /* images overlay */
 .imageWrapper {

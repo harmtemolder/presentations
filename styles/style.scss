@@ -4,23 +4,42 @@
 @charset "utf-8";
 
 /* Fonts */
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700);
+
 $bodyFont: 'Roboto', sans-serif;
 $titleFont: 'Rubik', sans-serif;
+$quoteFont: 'Vollkorn', serif;
 $codeFont: 'Ubuntu Mono', monospace;
 
 /* Colours */
-$dark: #273E47;
+$darkest: #273E47;
+$dark: #416675;
 $medium: #BD632F;
 $light: #D8973C;
 $lightest: #D8C99B;
+$white: #FFF;
 $accent: #BB1E10;
 
 /* Regular colour scheme */
 
 body {
-  color: $dark;
+  background-color: $darkest;
+  color: $darkest;
   font-family: $bodyFont;
   font-weight: 400;
+}
+
+.remark-slides-area {
+  background-color: $darkest;
+}
+
+.remark-slide-scaler {
+  -moz-box-shadow: 0 0 30px $lightest;
+  -webkit-box-shadow: 0 0 30px $lightest;
+  box-shadow: 0 0 30px $lightest;
 }
 
 .remark-slide-content {
@@ -43,18 +62,47 @@ h1 { font-size: 3em; }
 h2 { font-size: 2em; }
 h3 { font-size: 1.6em; }
 
-code {
-  font-family: $codeFont;
+a { color: $accent; }
+
+blockquote {
+  font-family: $quoteFont;
+  font-size: 2em;
   font-weight: 400;
 }
 
-a { color: $accent; }
+blockquote a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+code {
+  font-family: $codeFont;
+}
+
+.accent {
+  color: $accent;
+}
+
+/* Colour lists one-by-one */
+
+.list.inverse h2 {
+  color: $dark;
+}
+
+.list.inverse h2:last-of-type {
+  color: $lightest;
+}
 
 /* Inverse colour scheme*/
 
 .inverse {
-  background-color: $dark;
+  background-color: $darkest;
   color: $lightest;
+}
+
+/*  White coulour scheme */
+.white, iframe {
+  background-color: $white;
 }
 
 /* images overlay */
