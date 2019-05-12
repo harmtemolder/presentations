@@ -1,2 +1,5 @@
 baseurl: /presentations
-exclude: [LICENSE, README.md]
+exclude:
+  - LICENSE
+  - README.md
+  - "*.sh"
