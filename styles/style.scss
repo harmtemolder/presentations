@@ -58,9 +58,9 @@ h1 strong, h2 strong, h3 strong {
   color: $accent;
 }
 
-h1 { font-size: 3em; }
-h2 { font-size: 2em; }
-h3 { font-size: 1.6em; }
+.remark-slide-content h1 { font-size: 3.2em; }
+.remark-slide-content h2 { font-size: 2em; }
+.remark-slide-content h3 { font-size: 1.4em; }
 
 a { color: $accent; }
 
@@ -81,6 +81,10 @@ code {
 
 .accent {
   color: $accent;
+}
+
+.title {
+  font-variant: small-caps;
 }
 
 /* Colour lists one-by-one */
