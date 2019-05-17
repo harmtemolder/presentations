@@ -81,10 +81,27 @@ code {
   font-family: $codeFont;
 }
 
-.footnote {
+.footnote, .footnote a {
+  padding: 0.1em 0.5em;
+  width: 100%;
+  text-align: right;
   position: absolute;
-  bottom: 0.5em;
-  right: 0.5em;
+  background-color: $accent;
+  color: $lightest !important;
+  bottom: 0em;
+  right: 0em;
+}
+
+.footnote .twitter, .footnote .twitter a{
+  background-color: $twitter;
+}
+
+.inverse .footnote, .inverse .footnote a {
+  color: $darkest !important;
+}
+
+.black .footnote, .black .footnote a {
+  color: $black !important;
 }
 
 .accent {
@@ -119,11 +136,13 @@ code {
 /*  White coulour scheme */
 .white, iframe {
   background-color: $white;
+  color: $dark;
 }
 
 /*  Black coulour scheme */
 .black {
   background-color: $black;
+  color: $darkest;
 }
 
 /* images overlay */
