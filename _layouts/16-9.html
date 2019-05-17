@@ -36,7 +36,12 @@ layout: true
     var slideshow = remark.create({
       ratio: "16:9",
       slideNumberFormat: "", // Use %current% and %total%
-      cloneTarget: "_blank", // Not sure what this does...
+      cloneTarget: "_blank", // This probably sets where to open when "c" is pressed, but not sure
+      navigation: {
+        scroll: false,
+        touch: true,
+        click: false,
+      },
       // Code highlighting options:
       // highlightStyle: "monokai",
       // highlightLines: true,
