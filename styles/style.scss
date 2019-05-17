@@ -86,7 +86,7 @@ code {
   width: 100%;
   text-align: right;
   position: absolute;
-  background-color: $accent;
+  background-color: $darkest;
   color: $lightest !important;
   bottom: 0em;
   right: 0em;
@@ -97,10 +97,12 @@ code {
 }
 
 .inverse .footnote, .inverse .footnote a {
+  background-color: $lightest;
   color: $darkest !important;
 }
 
 .black .footnote, .black .footnote a {
+  background-color: $lightest;
   color: $black !important;
 }
 
