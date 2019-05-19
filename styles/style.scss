@@ -106,6 +106,15 @@ code {
   color: $black !important;
 }
 
+blockquote {
+  text-align: left;
+}
+
+blockquote .source {
+  float: right;
+  font-size: 67%;
+}
+
 .accent {
   color: $accent;
 }
