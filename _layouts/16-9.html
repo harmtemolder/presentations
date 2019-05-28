@@ -3,7 +3,7 @@
 
 <head>
   <title>{{page.title}}</title>
-  <link href="styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="styles/20190523-zen-and-the-art-of-motorcycle-faceplants.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
@@ -28,10 +28,10 @@ name: title-dark
 class: center, middle, inverse
 layout: true
 ---
-{{ content }}
+{% include {{ page.filename }} %}
   </textarea>
-  <!-- <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script> -->
-  <script src="{{  site.baseurl  }}/scripts/remark-latest.min.js"></script>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+  <!-- <script src="{{  site.baseurl  }}/scripts/remark-latest.min.js"></script> -->
   <script>
     var slideshow = remark.create({
       ratio: "16:9",
