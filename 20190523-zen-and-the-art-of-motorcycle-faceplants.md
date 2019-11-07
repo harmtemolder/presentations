@@ -1,8 +1,9 @@
 ---
 
-layout: 16-9
 title: Zen and the Art of Motorcycle Faceplants
 filename : 20190523-zen-and-the-art-of-motorcycle-faceplants.md
+stylesheet: 20190523-zen-and-the-art-of-motorcycle-faceplants.css
+layout: 16-9
 author: Harm te Molder
 location: Ucademy
 date: May 23rd, 2019
