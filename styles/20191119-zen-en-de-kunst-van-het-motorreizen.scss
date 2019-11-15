@@ -4,8 +4,8 @@
 @charset "utf-8";
 
 /* Fonts */
-@import url(https://fonts.googleapis.com/css?family=Rubik:400,400i,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,400i,700);
 @import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400i,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700);
 
@@ -16,36 +16,36 @@ $codeFont: 'Ubuntu Mono', monospace;
 
 /* Colours */
 $black: #000;
-$darkest: #273E47;
-$dark: #416675;
-$medium: #BD632F;
-$light: #D8973C;
-$lightest: #D8C99B;
+$dark: #010326;
+$medium: #364A73;
+$light: #F2D6B3;
 $white: #FFF;
-$accent: #BB1E10;
-$twitter: #1da1f2;
+$accent1: #BF6517;
+$accent2: #8C0303;
+$twitter: #1DA1F2;
+/* Source: https://color.adobe.com/red-eyes-wolf-color-theme-1114852 */
 
 /* Regular colour scheme */
 
 body {
-  background-color: $darkest;
-  color: $darkest;
+  background-color: $dark;
+  color: $dark;
   font-family: $bodyFont;
   font-weight: 400;
 }
 
 .remark-slides-area {
-  background-color: $darkest;
+  background-color: $dark;
 }
 
 .remark-slide-scaler {
-  -moz-box-shadow: 0 0 30px $lightest;
-  -webkit-box-shadow: 0 0 30px $lightest;
-  box-shadow: 0 0 30px $lightest;
+  -moz-box-shadow: 0 0 30px $medium;
+  -webkit-box-shadow: 0 0 30px $medium;
+  box-shadow: 0 0 30px $medium;
 }
 
 .remark-slide-content {
-  background-color: $lightest;
+  background-color: $light;
 }
 
 h1, h2, h3 {
@@ -53,18 +53,18 @@ h1, h2, h3 {
   font-weight: 700;
 }
 
-h1 em, h2 em, h3 em { color: $accent; }
+h1 em, h2 em, h3 em { color: $accent2 }
 
 h1 strong, h2 strong, h3 strong {
   font-weight: inherit;
-  color: $accent;
+  color: $accent2
 }
 
 .remark-slide-content h1 { font-size: 3.2em; }
 .remark-slide-content h2 { font-size: 2em; }
 .remark-slide-content h3 { font-size: 1.4em; }
 
-a { color: $accent; }
+a { color: $accent1 }
 
 blockquote {
   font-family: $quoteFont;
@@ -85,8 +85,8 @@ code {
   padding: 0.1em 0.5em;
   width: 100%;
   position: absolute;
-  background-color: $darkest;
-  color: $lightest !important;
+  background-color: $dark;
+  color: $light !important;
   bottom: 0em;
   right: 0em;
   z-index: 2;
@@ -95,15 +95,16 @@ code {
 
 .footnote .twitter, .footnote .twitter a{
   background-color: $twitter;
+  color: $light !important;
 }
 
 .inverse .footnote, .inverse .footnote a {
-  background-color: $lightest;
-  color: $darkest !important;
+  background-color: $light;
+  color: $dark !important;
 }
 
 .black .footnote, .black .footnote a {
-  background-color: $lightest;
+  background-color: $light;
   color: $black !important;
 }
 
@@ -117,7 +118,7 @@ blockquote .source {
 }
 
 .accent {
-  color: $accent;
+  color: $accent2
 }
 
 .twitter, .twitter a {
@@ -136,30 +137,30 @@ blockquote .source {
 /* Colour lists one-by-one */
 
 .list.inverse h2 {
-  color: $dark;
+  color: $medium;
 }
 
 .list.inverse h2:last-of-type {
-  color: $lightest;
+  color: $light;
 }
 
 /* Inverse colour scheme*/
 
 .inverse {
-  background-color: $darkest;
-  color: $lightest;
+  background-color: $dark;
+  color: $light;
 }
 
 /*  White coulour scheme */
 .white, iframe {
   background-color: $white;
-  color: $dark;
+  color: dark;
 }
 
 /*  Black coulour scheme */
 .black {
   background-color: $black;
-  color: $darkest;
+  color: light;
 }
 
 /* images overlay */
@@ -177,5 +178,5 @@ blockquote .source {
 
 /* Notes area */
 .remark-notes strong{
-  color: $accent;
+  color: $accent2
 }
