@@ -292,10 +292,16 @@ Eerder ging mijn energie op aan...
 # 36
 ???
 
-... 36 uur werken, een...
+... 36 uur werken, ...
 ---
 
 # donderdagmiddagborrel
+???
+
+een...
+---
+
+# .accent[do]nderdag.accent[mi]ddag.accent[bo]rrel
 ???
 
 domibo, nog eens...
@@ -307,7 +313,7 @@ domibo, nog eens...
 ... 9 uur op kantoor aanwezig zijn, een...
 ---
 
-# vrijdagmiddagborrel
+# .accent[vrij]dag.accent[mi]ddag.accent[bo]rrel
 ???
 
 ... vrijmibo en dan het hele...
