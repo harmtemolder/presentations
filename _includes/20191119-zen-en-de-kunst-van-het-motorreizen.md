@@ -20,7 +20,7 @@ template: title-dark
 
 template: title-light
 
-# Hoi
+# hoi
 ???
 
 Hoi, ik ben...
@@ -41,25 +41,25 @@ background-size: cover
 Mongolië. Vanavond vertel ik jullie over wat ik...
 ---
 
-# Voor
+# voor
 ???
 
 ... vóór die reis deed, wat ik...
 ---
 
-# Tijdens
+# tijdens
 ???
 
 ... tijdens de reis geleerd heb, en meer nog over waar ik me...
 ---
 
-# Na
+# na
 ???
 
 ... na de reis mee bezig heb gehouden. Hiermee hoop ik je te laten zien dat er altijd meer...
 ---
 
-# Opties
+# opties
 ???
 
 ... opties zijn dan de paar die je voorgeschoteld worden, op welk vlak dan ook. Om maar meteen met zo'n optie te beginnen: ...
@@ -81,7 +81,7 @@ background-size: cover
 ... Loes.
 ---
 
-# Nee, geen trouwringen of kinderen
+# geen trouwringen of kinderen
 ???
 
 Nee, we hebben geen trouwringen en geen kinderen, maar zo nu en dan mogen we...
@@ -101,13 +101,13 @@ background-size: cover
 ... dat laatste.
 ---
 
-# Over kinderen gesproken...
+# over kinderen gesproken...
 ???
 
 Over kinderen gesproken, laten we...
 ---
 
-# Even een stap terug
+# even een stap terug
 ???
 
 ... even een stap terug zetten.
@@ -283,3 +283,40 @@ background-size: cover
 
 ... Mongol Uls, Mongolië.
 ---
+
+???
+
+Eerder ging mijn energie op aan...
+---
+
+# 36
+???
+
+... 36 uur werken, een...
+---
+
+# donderdagmiddagborrel
+???
+
+domibo, nog eens...
+---
+
+# 9
+???
+
+... 9 uur op kantoor aanwezig zijn, een...
+---
+
+# vrijdagmiddagborrel
+???
+
+... vrijmibo en dan het hele...
+---
+
+# weekend
+???
+
+... weekend om bij te komen.
+---
+
+???
