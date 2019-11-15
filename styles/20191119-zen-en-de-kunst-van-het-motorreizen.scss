@@ -84,12 +84,13 @@ code {
 .footnote, .footnote a {
   padding: 0.1em 0.5em;
   width: 100%;
-  text-align: right;
   position: absolute;
   background-color: $darkest;
   color: $lightest !important;
   bottom: 0em;
   right: 0em;
+  z-index: 2;
+  text-align: right;
 }
 
 .footnote .twitter, .footnote .twitter a{
