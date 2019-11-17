@@ -846,7 +846,8 @@ Toen liet ik mijn bloed testen voor...
 ... mineralen.
 ---
 
-# Cerascreen <!-- TODO Add screenshot & photo of my blood -->
+background-image: url({{ site.baseurl }}/images/cerascreen.png)
+background-size: cover
 ???
 
 En die tests waren niet eens zo heel duur, bij Cerascreen.
@@ -886,7 +887,8 @@ Ik supplementeer nu...
 Toen deed ik een DNA-onderzoek bij MyHeritage, waar uit naar voren kwam dat ik toch echt...
 ---
 
-# hier
+background-image: url({{ site.baseurl }}/images/myheritage.png)
+background-size: cover
 ???
 
 ... hier uit de buurt kom.
@@ -894,7 +896,8 @@ Toen deed ik een DNA-onderzoek bij MyHeritage, waar uit naar voren kwam dat ik t
 Maar dat onderzoek wordt veel interessanter toen ik de ruwe data uploadde naar...
 ---
 
-# FoundMyFitness
+background-image: url({{ site.baseurl }}/images/foundmyfitness.png)
+background-size: cover
 ???
 
 ... FoundMyFitness, die mijn DNA analyseert op momenteel geïdentificeerde genotypes.
