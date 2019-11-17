@@ -4,17 +4,12 @@
 @charset "utf-8";
 
 /* Fonts */
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,400i,700);
-@import url(https://fonts.googleapis.com/css?family=Rubik:400,400i,700);
-@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400i,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700);
-
 $bodyFont: 'Roboto', sans-serif;
 $titleFont: 'Rubik', sans-serif;
 $quoteFont: 'Vollkorn', serif;
 $codeFont: 'Ubuntu Mono', monospace;
 
-/* Colours */
+/* Colors */
 $black: #000;
 $dark: #010326;
 $medium: #364A73;
@@ -26,7 +21,7 @@ $twitter: #1DA1F2;
 $instagram: #E1306C;
 /* Source: https://color.adobe.com/red-eyes-wolf-color-theme-1114852 */
 
-/* Regular colour scheme */
+/* Regular color scheme */
 
 body {
   background-color: $dark;
@@ -154,7 +149,7 @@ blockquote .source {
   // vertical-align: middle;
 }
 
-/* Colour lists one-by-one */
+/* Color lists one-by-one */
 
 .list.inverse h2 {
   color: $medium;
@@ -164,7 +159,7 @@ blockquote .source {
   color: $light;
 }
 
-/* Inverse colour scheme*/
+/* Inverse color scheme*/
 
 .inverse {
   background-color: $dark;
