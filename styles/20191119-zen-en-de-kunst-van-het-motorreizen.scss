@@ -129,9 +129,18 @@ blockquote .source {
   font-variant: small-caps;
 }
 
-.double {
+.large {
+  font-size: 125%;
+}
+
+.larger {
+  font-size: 150%;
+  // vertical-align: middle;
+}
+
+.largest {
   font-size: 200%;
-  vertical-align: middle;
+  // vertical-align: middle;
 }
 
 /* Colour lists one-by-one */
