@@ -59,7 +59,8 @@ Mongolië. Vanavond vertel ik jullie over wat ik...
 ... na de reis mee bezig heb gehouden. Hiermee hoop ik je te laten zien dat er altijd meer...
 ---
 
-# opties
+background-image: url({{ site.baseurl }}/images/20180626-204457-tracks-in-mongolia.png)
+background-size: cover
 ???
 
 ... opties zijn dan de paar die je voorgeschoteld worden, op welk vlak dan ook. Om maar meteen met zo'n optie te beginnen: ...
@@ -343,7 +344,8 @@ domibo, nog eens...
 Om te werken aan onze...
 ---
 
-# relatie
+background-image: url({{ site.baseurl }}/images/20171111-144358-with-loes-on-a-cliff.png)
+background-size: cover
 ???
 
 ... relatie.
@@ -351,7 +353,8 @@ Om te werken aan onze...
 En aan...
 ---
 
-# mezelf
+background-image: url({{ site.baseurl }}/images/20170703-140846-myself.png)
+background-size: cover
 ???
 
 mezelf.
@@ -365,13 +368,15 @@ En zo begon voorzichtig mijn...
 ... zoektocht naar fysieke optimalisatie.
 ---
 
-# offroad
+background-image: url({{ site.baseurl }}/images/20170723-133046-water-crossing.png)
+background-size: cover
 ???
 
 Offroadrijden is sporten. En wanneer ik weer eens net te lang doorgereden had, helemaal...
 ---
 
-# kapot
+background-image: url({{ site.baseurl }}/images/20170716-200534-sick.png)
+background-size: cover
 ???
 
 ... kapot was, begon mijn pauze met weinig meer dan een sneer naar Loes.
@@ -379,7 +384,8 @@ Offroadrijden is sporten. En wanneer ik weer eens net te lang doorgereden had, h
 Gevolgd door een handvol...
 ---
 
-# koekjes
+background-image: url({{ site.baseurl }}/images/cookies.jpg)
+background-size: cover
 ???
 
 ... koekjes.
@@ -387,7 +393,8 @@ Gevolgd door een handvol...
 En dan ging het wel weer, tot de volgende...
 ---
 
-# bloedsuikerdip
+background-image: url({{ site.baseurl }}/images/sugar-cubes.jpg)
+background-size: cover
 ???
 
 ... bloedsuikerdip, een half uur later.
@@ -407,27 +414,29 @@ Geen toegevoegde suikers dus.
 En na een paar dagen van...
 ---
 
-# afkickverschijnselen
+template: list-dark
+
+## afkickverschijnselen
 ???
 
 ... afkickverschijnselen...
 
 Echt waar: ...
----
+--
 
-# trillende handen
+## trillende handen
 ???
 
 ... trillende handen, ...
----
+--
 
-# stemmingswisselingen
+## stemmingswisselingen
 ???
 
 ... stemmingswisselingen, ...
----
+--
 
-# gebrek aan energie
+## gebrek aan energie
 ???
 
 ... gebrek aan energie.
@@ -452,18 +461,20 @@ Echt waar: ...
 
 ... beter.
 
-En heej, geen...
+En heej, ...
 ---
 
-# dips
+# geen dips
 ???
 
-... dips meer.
+... geen dips meer.
 
 Geen...
 ---
 
-# Snickers
+background-image: url({{ site.baseurl }}/images/cranky.jpg)
+background-size: cover
+<!-- cover, contain or auto -->
 ???
 
 ... Snickers-reclames meer.
@@ -536,25 +547,27 @@ Niets met méér dan 1 ingrediënt op de verpakking. Eigenlijk ook zo min mogeli
 En liet ik voedingsgroepen weg waar gevoeligheden voor bekend zijn:
 ---
 
-# geen granen
+template: list-dark
+
+## geen granen
 ???
 
 * Geen granen
----
+--
 
-# geen zuivel
+## geen zuivel
 ???
 
 * Geen zuivel
----
+--
 
-# geen peulvruchten
+## geen peulvruchten
 ???
 
 * Geen peulvruchten
----
+--
 
-# geen alcohol
+## geen alcohol
 ???
 
 * Geen alcohol
@@ -570,7 +583,8 @@ Even helemaal...
 En na...
 ---
 
-# 30 dagen
+background-image: url({{ site.baseurl }}/images/whole30.png)
+background-size: cover
 ???
 
 ... 30 dagen probeerde ik één voor één een dag lang weer zo'n voedingsgroep uit, gevolgd door twee dagen schoon.
@@ -578,7 +592,8 @@ En na...
 Daardoor weet ik dat...
 ---
 
-# yoghurt
+background-image: url({{ site.baseurl }}/images/mongolian-arkhi.jpg)
+background-size: cover
 ???
 
 ... yoghurt echt wat doet in mijn maag en darmen
@@ -594,7 +609,8 @@ Hoe...
 Hoeveel energie het verteren van...
 ---
 
-# kaas
+background-image: url({{ site.baseurl }}/images/cheese.png)
+background-size: cover
 ???
 
 ... kaas, met name oude, kost.
@@ -602,7 +618,10 @@ Hoeveel energie het verteren van...
 Hoe ik me niet in kan houden met...
 ---
 
-# pindakaas
+template: title-white
+
+background-image: url({{ site.baseurl }}/images/pindakaas.png)
+background-size: contain
 ???
 
 ... pindakaas.
@@ -610,7 +629,8 @@ Hoe ik me niet in kan houden met...
 En hoe ik na een...
 ---
 
-# lasagne
+background-image: url({{ site.baseurl }}/images/lasagna.png)
+background-size: cover
 ???
 
 ... lasagne mijn eerste after-dinner-dip in een maand had.
@@ -623,16 +643,11 @@ Nu eet ik géén kaas wanneer ik mijn...
 
 ... energie nodig heb;
 
-Haal ik heel af en toe een...
+Haal ik heel af en toe een pot pindakaas in huis die ik dan binnen een week...
 ---
 
-# pot pindakaas
-???
-
-... pot pindakaas in huis die ik dan binnen een week...
----
-
-# leeg lepel
+background-image: url({{ site.baseurl }}/images/meet-joe-black.jpg)
+background-size: cover
 ???
 
 ... leeg lepel;
@@ -640,7 +655,8 @@ Haal ik heel af en toe een...
 Plan ik mijn...
 ---
 
-# alcohol
+background-image: url({{ site.baseurl }}/images/mongolian-vodka.jpg)
+background-size: cover
 ???
 
 ... alcoholconsumptie;
@@ -648,7 +664,8 @@ Plan ik mijn...
 En eet ik...
 ---
 
-# geen pasta
+background-image: url({{ site.baseurl }}/images/empty-plate.jpg)
+background-size: cover
 ???
 
 ... géén pasta meer.
@@ -716,7 +733,8 @@ Vanuit een...
 De app...
 ---
 
-# Sleep Cycle
+background-image: url({{ site.baseurl }}/images/sleep-cycle.png)
+background-size: cover
 ???
 
 ... Sleep Cycle luistert naar mijn bewegingen en wekt me ergens...
@@ -757,13 +775,21 @@ Ik eet direct voordat ik naar bed ga een theelepeltje...
 # honing
 ???
 
-... honing, wat me...
+... honing. Vergelijk...
 ---
 
-# langer aaneensluitend en eerder
+background-image: url({{ site.baseurl }}/images/oura-without-honey.png)
+background-size: cover
 ???
 
-... langer aaneensluitend en eerder in de nacht diep slapen.
+... deze nacht zonder honing met...
+---
+
+background-image: url({{ site.baseurl }}/images/oura-with-honey.png)
+background-size: cover
+???
+
+... deze nacht met: langer aaneensluitend en eerder in de nacht diepe slaap.
 
 En ik smeer me in met een oplossing van...
 ---
@@ -843,14 +869,14 @@ Toen liet ik mijn bloed testen voor...
 # mineralen
 ???
 
-... mineralen.
+... mineralen. Gewoon met bloedtesten die ik zelf kon afnemen, van...
 ---
 
 background-image: url({{ site.baseurl }}/images/cerascreen.png)
 background-size: cover
 ???
 
-En die tests waren niet eens zo heel duur, bij Cerascreen.
+... Cerascreen.
 
 Ik supplementeer nu...
 ---
@@ -900,7 +926,7 @@ background-image: url({{ site.baseurl }}/images/foundmyfitness.png)
 background-size: cover
 ???
 
-... FoundMyFitness, die mijn DNA analyseert op momenteel geïdentificeerde genotypes.
+... FoundMyFitness, die mijn DNA analyseerde op momenteel geïdentificeerde genotypes.
 
 Zo weet ik nu dat ik...
 * ... meerdere genotypes heb die geassocieerd worden met een verminderde opname en omzetting van...
@@ -971,19 +997,58 @@ template: list-dark
 
 ... zitten.
 
-En nu is het tijd om weer op pad te gaan.
-De...
+En er is nog veel...
 ---
 
-# motor
+# meer
 ???
 
-... motor heb ik weggegeven.
+... meer dat ik probeerde en nog steeds probeer. Zo mediteer ik sinds ik weer in Nederland ben elke ochtend met Sam Harris'...
+---
+
+background-image: url({{ site.baseurl }}/images/waking-up.png)
+background-size: cover
+???
+
+... Waking Up-app, vergeet ik niets meer omdat ik alles opschrijf in...
+---
+
+background-image: url({{ site.baseurl }}/images/workflowy.png)
+background-size: cover
+???
+
+... WorkFlowy en begin ik elke dag met...
+---
+
+background-image: url({{ site.baseurl }}/images/just-6-weeks.png)
+background-size: cover
+???
+
+... opdrukken, planken of kikkersprongen.
+
+Maar nu is het tijd om weer op pad te gaan.
 
 De...
 ---
 
-# auto
+background-image: url({{ site.baseurl }}/images/yamaha-xt600-tenere-1vj.png)
+background-size: cover
+???
+
+... motor heb ik...
+---
+
+background-image: url({{ site.baseurl }}/images/20190820-084625-steven-op-de-tosor-pas.jpg)
+background-size: cover
+???
+
+... weggegeven.
+
+De...
+---
+
+background-image: url({{ site.baseurl }}/images/20170704-095012-loes-throwing-up-dust.png)
+background-size: cover
 ???
 
 ... auto is verkocht.
@@ -997,13 +1062,15 @@ En mijn...
 ... tas is zo goed als gepakt om op 1 december naar...
 ---
 
-# Barcelona
+background-image: url({{ site.baseurl }}/images/barcelona.jpg)
+background-size: cover
 ???
 
 ... Barcelona te vliegen en 4 december door naar...
 ---
 
-# Santiago
+background-image: url({{ site.baseurl }}/images/santiago.jpg)
+background-size: cover
 ???
 
 ... Santiago, Chili
@@ -1018,7 +1085,7 @@ En mijn...
 # wat
 ???
 
-... wat ik net vertelde. Ook hoe jij denkt over...
+... wat ik net vertelde, maar ook hoe jij denkt over...
 ---
 
 # hoe
