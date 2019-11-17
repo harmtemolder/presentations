@@ -844,6 +844,12 @@ Toen liet ik mijn bloed testen voor...
 ???
 
 ... mineralen.
+---
+
+# Cerascreen <!-- TODO Add screenshot & photo of my blood -->
+???
+
+En die tests waren niet eens zo heel duur, bij Cerascreen.
 
 Ik supplementeer nu...
 ---
@@ -1040,7 +1046,18 @@ template: title-black
 
 ### {{ page.location }}
 
-## .footnote[.twitter[[@harmtemolder](https://twitter.com/harmtemolder)]]
+## .footnote[.twitter[[Twitter: @harmtemolder](https://twitter.com/harmtemolder)]]
+---
+
+template: title-black
+
+# .title[{{ page.title }}]
+
+## {{ page.author }}
+
+### {{ page.location }}
+
+## .footnote[.instagram[[Instagram: @sixwheelseast](https://www.instagram.com/sixwheelseast/)]]
 
 <!-- TODO
 * Replace all "  " with " "

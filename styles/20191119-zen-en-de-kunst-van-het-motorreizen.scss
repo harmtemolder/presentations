@@ -23,6 +23,7 @@ $white: #FFF;
 $accent1: #BF6517;
 $accent2: #8C0303;
 $twitter: #1DA1F2;
+$instagram: #E1306C;
 /* Source: https://color.adobe.com/red-eyes-wolf-color-theme-1114852 */
 
 /* Regular colour scheme */
@@ -91,11 +92,7 @@ code {
   right: 0em;
   z-index: 2;
   text-align: right;
-}
-
-.footnote .twitter, .footnote .twitter a{
-  background-color: $twitter;
-  color: $light !important;
+  text-decoration: none;
 }
 
 .inverse .footnote, .inverse .footnote a {
@@ -108,6 +105,16 @@ code {
   color: $black !important;
 }
 
+.footnote .twitter, .footnote .twitter a {
+  background-color: $twitter;
+  color: $white !important;
+}
+
+.footnote .instagram, .footnote .instagram a {
+  background-color: $instagram;
+  color: $white !important;
+}
+
 blockquote {
   text-align: left;
 }
@@ -115,6 +122,10 @@ blockquote {
 blockquote .source {
   float: right;
   font-size: 67%;
+}
+
+.light {
+  font-weight: 400;
 }
 
 .accent {
@@ -169,7 +180,7 @@ blockquote .source {
 /*  Black coulour scheme */
 .black {
   background-color: $black;
-  color: light;
+  color: $light;
 }
 
 /* images overlay */
