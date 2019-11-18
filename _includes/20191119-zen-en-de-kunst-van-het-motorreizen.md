@@ -7,15 +7,21 @@ template: title-dark
 ### .footnote[{{ page.location }}]
 ???
 
-*c: Clone slideshow*
+Steps to set up the presentation:
+1. ~~Open slideshow~~
+1. Press **c** to clone the window
+1. Drag the clone to the right screen
+1. Press **f** to switch to fullscreen
+1. Click the original screen on the MacBook
+1. Press **f** to switch to fullscreen
+1. Press **p** to toggle presenter mode
+1. Press **t** to reset the timer
+1. Enjoy
 
-*f: Toggle fullscreen mode*
-
-*p: Toggle presenter mode*
-
-*h: Toggle help*
-
-*Note to self: Don't forget to test the audio and internet and quickly go through all slides to pre-load Google Maps*
+More commands:
+* **Number + Return** to go to that slide
+* **b** to black out the screen
+* **h** for an overview of all commands
 ---
 
 template: title-light
@@ -244,7 +250,7 @@ background-image: url({{ site.baseurl }}/images/reisadvies.jpg)
 background-size: cover
 ???
 
-... zogenaamd onveilig is. Het grappige is dat elk land vanaf Oostenrijk dat over zijn oosterburen zei.
+... zogenaamd onveilig is. Het grappige is trouwens dat elk land vanaf Oostenrijk dat over zijn oosterburen zei.
 ---
 
 background-image: url({{ site.baseurl }}/images/europa.png)
@@ -295,7 +301,7 @@ background-size: cover
 
 ???
 
-Eerder ging mijn energie op aan...
+Eerder ging mijn energie altijd op aan...
 ---
 
 # 36
@@ -378,7 +384,7 @@ background-image: url({{ site.baseurl }}/images/20170723-133046-water-crossing.p
 background-size: cover
 ???
 
-... rijden is sporten. En wanneer ik weer eens net te lang doorgereden had, helemaal...
+... rijden is sporten. En wanneer ik weer eens nèt te lang doorgereden had, helemaal...
 ---
 
 background-image: url({{ site.baseurl }}/images/20170716-200534-sick.png)
@@ -539,13 +545,13 @@ Eiwitten?
 
 ???
 
-De hele maand januari at ik alleen maar...
+In januari pakte ik dat gestructureerder aan door alleen maar...
 ---
 
 # "whole food"
 ???
 
-... "heel eten".
+... "heel eten" te eten.
 
 Niets...
 ---
@@ -601,7 +607,7 @@ background-size: cover
 
 ... 30 dagen probeerde ik één voor één een dag lang weer zo'n voedingsgroep uit, gevolgd door twee dagen schoon.
 
-Daardoor weet ik dat...
+Daardoor weet ik nu dat...
 ---
 
 background-image: url({{ site.baseurl }}/images/mongolian-arkhi.jpg)
@@ -899,14 +905,14 @@ template: title-light
 # mineralen
 ???
 
-... mineralen. Gewoon met bloedtesten die ik zelf kon afnemen, van...
+... mineralen. Gewoon met bloedtesten die ik...
 ---
 
 background-image: url({{ site.baseurl }}/images/cerascreen.png)
 background-size: cover
 ???
 
-... Cerascreen.
+... zelf kon afnemen.
 
 Ik supplementeer nu...
 ---
@@ -914,7 +920,7 @@ Ik supplementeer nu...
 # 2.500 IU vitamine D3
 ???
 
-... 2.500 IU vitamine D3,...
+... vijfentwintighonderd IU vitamine D3,...
 ---
 
 # 2,3 g omega 3
@@ -981,7 +987,7 @@ Zo weet ik nu dat ik...
 ???
 
 * ... obesitas en diabetes type 2;
-* dat het dus goed is dat ik geen suiker eet;
+* dus dat het goed is dat ik geen suiker eet;
 * dat ik...
 ---
 
@@ -1002,7 +1008,7 @@ Zo weet ik nu dat ik...
 # korte telomeren
 ???
 
-... korte telomeren, de beschermende uiteindes van chromosomen, heb, dus dat ik geen risico wil lopen die nog verder te verkorten door...
+... korte telomeren heb. Dat zijn de beschermende uiteindes van chromosomen. Om zo min mogelijk risico te lopen die nog verder te verkorten let ik op met...
 ---
 
 template: list-dark
@@ -1037,36 +1043,161 @@ template: list-dark
 
 * ... zitten.
 
-En er is nog veel...
+Oké, dat waren voeding, slaap, bloedwaardes en DNA. Iets wat me de focus en helderheid geeft om met al die dingen aan de slag te gaan is...
 ---
 
-# meer
+template: title-light
+
+# mindfulness
 ???
 
-... meer dat ik probeerde en nog steeds probeer. Zo mediteer ik sinds ik weer in Nederland ben elke ochtend met Sam Harris'...
+...mindfullness. Al is dat een iets te hip geworden term tegenwoordig. Zullen we het gewoon...
+---
+
+# bewust zijn
+???
+
+... bewust zijn noemen?
+
+Gedurende mijn jaren in de stressvolle omgeving van een bureau begon ik elke dag met...
+---
+
+background-image: url({{ site.baseurl }}/images/yoga-with-adrienne.png)
+background-size: cover
+???
+
+... yoga. Dat gaf me de rust om weer een volle dag rennen aan te kunnen. Tijdens de reis zette ik dit door, maar dan juist als...
+---
+
+background-image: url({{ site.baseurl }}/images/20170515-065639-yoga-on-the-cliffs.png)
+background-size: cover
+???
+
+... fysieke rekoefening na uren motorrijden. Terug in Nederland verruilde ik yoga voor Sam Harris'...
 ---
 
 background-image: url({{ site.baseurl }}/images/waking-up.png)
 background-size: cover
 ???
 
-... Waking Up-app, vergeet ik niets meer omdat ik alles opschrijf in...
+... Waking Up-app en mediteer ik elke ochtend minstens 10 minuten. Dit geeft me gedurende de dag de optie om een stap terug te doen, naar een situatie te kijken en een andere keuze te maken. Een mooie vergelijking die ik laatst hoorde is het verschil tussen in de ...
+---
+
+background-image: url({{ site.baseurl }}/images/inside-washing-machine.gif)
+background-size: cover
+???
+
+...wasmachine meedraaien, of...
+---
+
+background-image: url({{ site.baseurl }}/images/outside-washing-machine.gif)
+background-size: cover
+???
+
+... door het raampje kijken. Het is moeilijk uit te leggen hoeveel tijdwinst die...
+---
+
+# 10 minuten
+???
+
+... tien minuten per dag je geven, dat moet je zelf ervaren. Als je één ding opsteekt vanavond, laat het dit zijn.
+
+Iets anders waar ik me in wil verbeteren is mijn...
+---
+
+# geheugen
+???
+
+...geheugen.
+---
+
+background-image: url({{ site.baseurl }}/images/jim-kwik.png)
+background-size: cover
+???
+
+Deze man, Jim Kwik, schijnt een methode te hebben ontwikkeld om je geheugen tot bijna onmenselijke prestaties te trainen. Hier induiken staat als volgende op mijn agenda, dus ik kan je helaas nog niet vertellen of en hoe goed het werkt.
+
+Waar ik wel al stappen in gezet heb is om zo min mogelijk te vergeten door alles op te schrijven in...
 ---
 
 background-image: url({{ site.baseurl }}/images/workflowy.png)
 background-size: cover
 ???
 
-... WorkFlowy en begin ik elke dag met...
+... WorkFlowy. Ik gebruik het als...
+---
+
+background-image: url({{ site.baseurl }}/images/dagboek.png)
+background-size: cover
+???
+
+... dagboek, als...
+---
+
+background-image: url({{ site.baseurl }}/images/to-do-lijst.png)
+background-size: cover
+???
+
+... to-do-lijst, als...
+---
+
+background-image: url({{ site.baseurl }}/images/notitieblok.png)
+background-size: cover
+???
+
+... notitieblok. Alles wat ik belangrijk vind om te onthouden gaat hier in. Zo kan ik over tien jaar nog terugvinden wat ik vanavond presenteerde en wie ik hier ontmoet heb.
+
+Een laatste onderwerp dat niet mag ontbreken in een verhaal over optimalisatie is...
+---
+
+template: title-light
+
+# beweging
+???
+
+... beweging.
+
+Afhankelijk van waar ik woonde...
+---
+
+background-image: url({{ site.baseurl }}/images/strava-hoofddorp.png)
+background-size: cover
+???
+
+... fietste ik naar kantoor, afgelopen jaar. Maar ik lees en hoordat  je voor de meest merkbare effecten op je gezondheid en lichaam het beste kunt gewichtheffen. Voor nu doe ik dat beperkt, op basis van mijn eigen lichaamsgewicht: Elke ochtend na mijn meditatie...
 ---
 
 background-image: url({{ site.baseurl }}/images/just-6-weeks.png)
 background-size: cover
 ???
 
-... opdrukken, planken of kikkersprongen.
+... opdrukken, planken of kikkersprongen. Ik word er, zoals je ziet, niet heel veel breder van, maar elke dag beginnen met het behalen van een mezelf gesteld doel voelt als winnen. Na een plank van drie minuten is al het andere die dag makkelijker.
+---
 
-Maar nu is het tijd om weer op pad te gaan.
+# samenvattend
+???
+
+Samenvattend heb ik het nodige uitgeprobeerd, maar is er nog heel veel meer dat ik wil doen op het gebied van...
+---
+
+# voeding
+???
+
+* voeding;
+--
+
+# slaap
+???
+
+* slaap;
+--
+
+# beweging
+???
+
+* en beweging.
+
+Maar nu is het eerst tijd om weer op pad te gaan.
 
 De...
 ---
@@ -1113,7 +1244,7 @@ background-image: url({{ site.baseurl }}/images/santiago.jpg)
 background-size: cover
 ???
 
-... Santiago, Chili
+... Santiago in Chili
 ---
 
 # 2019
@@ -1139,13 +1270,13 @@ Ik hoor heel graag hoe jij denkt over...
 # Don't be nice.
 ???
 
-Wees alsjeblieft niet aardig,...
+Wees alsjeblieft niet áárdig,...
 --
 
 # Be helpful.
 ???
 
-... help me beter worden.
+... help me béter worden.
 ---
 
 # dankjewel
@@ -1170,8 +1301,3 @@ template: title-black
 ## {{ page.author }}
 
 ### .footnote[.instagram[[Instagram: @sixwheelseast](https://www.instagram.com/sixwheelseast/)]]
-
-<!-- TODO
-* Replace all " " with " "
-*
- -->
