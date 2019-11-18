@@ -10,19 +10,13 @@ $quoteFont: 'Vollkorn', serif;
 $codeFont: 'Ubuntu Mono', monospace;
 
 /* Colors */
-$black: #000;
 $dark: #010326;
 $medium: #364A73;
 $light: #F2D6B3;
-$white: #FFF;
-$accent1: #BF6517;
-$accent2: #8C0303;
-$twitter: #1DA1F2;
-$instagram: #E1306C;
+$accent: #8C0303;
 /* Source: https://color.adobe.com/red-eyes-wolf-color-theme-1114852 */
 
 /* Regular color scheme */
-
 body {
   background-color: $dark;
   color: $dark;
@@ -49,23 +43,53 @@ h1, h2, h3 {
   font-weight: 700;
 }
 
-h1 em, h2 em, h3 em { color: $accent2 }
+h1 em, h2 em, h3 em { color: $accent }
 
 h1 strong, h2 strong, h3 strong {
   font-weight: inherit;
-  color: $accent2
+  color: $accent
 }
 
 .remark-slide-content h1 { font-size: 3.2em; }
 .remark-slide-content h2 { font-size: 2em; }
 .remark-slide-content h3 { font-size: 1.4em; }
 
-a { color: $accent1 }
+a { color: $accent }
 
+code {
+  font-family: $codeFont;
+}
+
+.light {
+  font-weight: 400;
+}
+
+.accent {
+  color: $accent
+}
+
+.title {
+  font-variant: small-caps;
+}
+
+.large {
+  font-size: 125%;
+}
+
+.larger {
+  font-size: 150%;
+}
+
+.largest {
+  font-size: 200%;
+}
+
+/* Quotes */
 blockquote {
   font-family: $quoteFont;
   font-size: 2em;
   font-weight: 400;
+  text-align: left;
 }
 
 blockquote a {
@@ -73,10 +97,12 @@ blockquote a {
   text-decoration: inherit;
 }
 
-code {
-  font-family: $codeFont;
+blockquote .source {
+  float: right;
+  font-size: 67%;
 }
 
+/* Footnotes */
 .footnote, .footnote a {
   padding: 0.1em 0.5em;
   width: 100%;
@@ -90,77 +116,37 @@ code {
   text-decoration: none;
 }
 
-.inverse .footnote, .inverse .footnote a {
+.footnote .inverse, .footnote .inverse a {
   background-color: $light;
   color: $dark !important;
 }
 
-.black .footnote, .black .footnote a {
+.footnote .black, .footnote .black a {
   background-color: $light;
-  color: $black !important;
+  color: #000 !important;
 }
 
 .footnote .twitter, .footnote .twitter a {
-  background-color: $twitter;
-  color: $white !important;
+  background-color: #1DA1F2;
+  color: #FFF !important;
 }
 
 .footnote .instagram, .footnote .instagram a {
-  background-color: $instagram;
-  color: $white !important;
+  background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+  /* Source: http://www.brandgradients.com/instagram-colors/ */
+  color: #FFF !important;
 }
 
-blockquote {
-  text-align: left;
-}
-
-blockquote .source {
-  float: right;
-  font-size: 67%;
-}
-
-.light {
-  font-weight: 400;
-}
-
-.accent {
-  color: $accent2
-}
-
-.twitter, .twitter a {
-  color: $twitter;
-}
-
-.title {
-  font-variant: small-caps;
-}
-
-.large {
-  font-size: 125%;
-}
-
-.larger {
-  font-size: 150%;
-  // vertical-align: middle;
-}
-
-.largest {
-  font-size: 200%;
-  // vertical-align: middle;
-}
-
-/* Color lists one-by-one */
-
-.list.inverse h2 {
+/* Color titles one-by-one */
+.inverse h1, .inverse h2 {
   color: $medium;
 }
 
-.list.inverse h2:last-of-type {
+.inverse h1:last-of-type, .inverse h2:last-of-type {
   color: $light;
 }
 
 /* Inverse color scheme*/
-
 .inverse {
   background-color: $dark;
   color: $light;
@@ -168,17 +154,17 @@ blockquote .source {
 
 /*  White coulour scheme */
 .white, iframe {
-  background-color: $white;
+  background-color: #FFF;
   color: dark;
 }
 
-/*  Black coulour scheme */
+/*  Black color scheme */
 .black {
-  background-color: $black;
+  background-color: #000;
   color: $light;
 }
 
-/* images overlay */
+/* Images overlay */
 .imageWrapper {
   position: relative;
 }
@@ -193,5 +179,5 @@ blockquote .source {
 
 /* Notes area */
 .remark-notes strong{
-  color: $accent2
+  color: $accent
 }
