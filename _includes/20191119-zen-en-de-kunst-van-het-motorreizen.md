@@ -31,7 +31,7 @@ template: title-dark
 # Harm
 ???
 
-Harm en ik ben een klein jaar terug van een reis naar...
+Harm en ik ben nu alweer een klein jaar terug van een reis naar...
 ---
 
 background-image: url({{ site.baseurl }}/images/mongolian-flag.jpg)
@@ -70,7 +70,7 @@ background-image: url({{ site.baseurl }}/images/nederland.png)
 background-size: cover
 ???
 
-... ik woon eigenlijk nergens. Nee, echt. Ik heb het afgelopen jaar op huizen en de bijbehorende honden en katten van vrienden, vrienden van vrienden en vreemden gepast. Iedereen wint.
+... ik woon eigenlijk al een jaar nergens. Ik heb het afgelopen jaar op huizen en de bijbehorende honden en katten van vrienden, vrienden van vrienden en vreemden gepast. Zo woonde ik achtereenvolgens in Utrecht, Den Bosch, Utrecht, Hoofddorp, Diemen, Den Bosch en Utrecht.
 
 Dat deed ik samen met mijn vriendin, ...
 ---
@@ -80,12 +80,14 @@ background-size: cover
 ???
 
 ... Loes.
+
+We zijn al tien jaar samen, maar nee, we hebben ...
 ---
 
 # geen trouwringen of kinderen
 ???
 
-Nee, we hebben geen trouwringen en geen kinderen, maar zo nu en dan mogen we...
+... geen trouwringen of kinderen. Zo nu en dan mogen we...
 ---
 
 background-image: url({{ site.baseurl }}/images/20170924-095642-two-babies-on-my-bike.png)
@@ -107,6 +109,8 @@ background-size: cover
 
 Over kinderen gesproken, laten we...
 ---
+
+template: title-light
 
 # even een stap terug
 ???
@@ -131,7 +135,7 @@ background-size: cover
 # 13 november 1986
 ???
 
-... dertien november negentienzesentachtig. Of eigenlijk een kleine negen maanden daarvoor, maar we weten allemaal wel hoe dat werkt, toch?
+... dertien november negentienzesentachtig. Of eigenlijk een kleine negen maanden daarvoor, maar laten we niet teveel in details treden.
 
 Oké, ...
 ---
@@ -205,7 +209,7 @@ background-image: url({{ site.baseurl }}/images/dept-agency.jpg)
 background-size: cover
 ???
 
-... een grotere groep. Ergens toen kwam het besef dat de keuzes die tot dit punt in mijn leven geleid hebben helemaal geen bewuste keuzes waren. Op de...
+... een grotere groep. En ergens tóén kwam het besef dat de keuzes die tot dit punt in mijn leven geleid hebben helemaal geen bewuste keuzes waren. Op de...
 ---
 
 background-image: url({{ site.baseurl }}/images/autopilot.jpg)
@@ -214,6 +218,8 @@ background-size: cover
 
 ... automatische piloot rolde ik van de ene rol in de andere. Toen nam ik de bewuste keuze om die automatische piloot...
 ---
+
+template: title-black
 
 ???
 
@@ -248,10 +254,10 @@ background-size: cover
 * Oostenrijk over Slovenië,
 * Slovenië over Kroatië,
 * Kroatië over Bosnië,
-* Bosnië over Kosovo,
-* Kosovo over Macedonië,
-* Macedonië over Griekenland,
-* Griekenland over...
+* Kosovo,
+* Macedonië,
+* Griekenland,
+* ...
 ---
 
 background-image: url({{ site.baseurl }}/images/eurazie.png)
@@ -259,12 +265,12 @@ background-size: cover
 ???
 
 * ... Turkije,
-* Turkije over Georgië,
-* Georgië over Rusland,
-* Rusland over Kazachstan,
+* Georgië,
+* Rusland,
+* Kazachstan,
 * en daarna niet meer.
 
-Met de gedachte dat ik liever spijt heb van de dingen die ik wel deed dan van de dingen die ik niet deed, wat iemand ooit mooier verwoorde dan ik: ...
+Ik heb liever spijt van de dingen die ik wel gedaan heb dan van de dingen die ik niet deed, ...
 ---
 
 template: quote-dark
@@ -275,11 +281,9 @@ template: quote-dark
 
 ???
 
-"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."
+... dit dus.
 
-En hoewel het vaak gedacht wordt dat Mark Twain dit zei, schreef hij het in ieder geval nergens.
-
-Maar goed, met die wijsheid in mijn achterhoofd vertrok ik op de motor naar...
+En met die wijsheid in mijn achterhoofd vertrok ik op de motor naar...
 ---
 
 background-image: url({{ site.baseurl }}/images/eurazie.png)
@@ -366,13 +370,15 @@ En zo begon voorzichtig mijn...
 ???
 
 ... zoektocht naar fysieke optimalisatie.
+
+Offroad...
 ---
 
 background-image: url({{ site.baseurl }}/images/20170723-133046-water-crossing.png)
 background-size: cover
 ???
 
-Offroadrijden is sporten. En wanneer ik weer eens net te lang doorgereden had, helemaal...
+... rijden is sporten. En wanneer ik weer eens net te lang doorgereden had, helemaal...
 ---
 
 background-image: url({{ site.baseurl }}/images/20170716-200534-sick.png)
@@ -414,15 +420,15 @@ Geen toegevoegde suikers dus.
 En na een paar dagen van...
 ---
 
-template: list-dark
-
-## afkickverschijnselen
+# afkickverschijnselen
 ???
 
 ... afkickverschijnselen...
 
 Echt waar: ...
---
+---
+
+template: list-dark
 
 ## trillende handen
 ???
@@ -474,12 +480,11 @@ Geen...
 
 background-image: url({{ site.baseurl }}/images/cranky.jpg)
 background-size: cover
-<!-- cover, contain or auto -->
 ???
 
-... Snickers-reclames meer.
+... Snickers-reclames.
 
-En in plaats daarvoor...
+En in plaats daarvan...
 ---
 
 # stabiel
@@ -487,7 +492,7 @@ En in plaats daarvoor...
 
 ... stabielere energie.
 
-Daarop ben ik toen doorgegaan:
+Op die bevinding ben ik toen doorgegaan:
 
 Wat doet...
 ---
@@ -497,7 +502,7 @@ Wat doet...
 
 ... brood met me?
 
-En...
+En, het ideale reisontbijt, ...
 ---
 
 # havermout?
@@ -542,9 +547,16 @@ De hele maand januari at ik alleen maar...
 
 ... "heel eten".
 
-Niets met méér dan 1 ingrediënt op de verpakking. Eigenlijk ook zo min mogelijk verpakkingen.
+Niets...
+---
 
-En liet ik voedingsgroepen weg waar gevoeligheden voor bekend zijn:
+background-image: url({{ site.baseurl }}/images/20190102-173106-heel-eten.png)
+background-size: cover
+???
+
+... met méér dan 1 ingrediënt op de verpakking. En eigenlijk ook zo min mogelijk verpakkingen, maar zoals je ziet is dat lastig in Nederlandse supermarkten.
+
+En ik liet voedingsgroepen weg waar gevoeligheden voor bekend zijn:
 ---
 
 template: list-dark
@@ -601,7 +613,8 @@ background-size: cover
 Hoe...
 ---
 
-# alcohol
+background-image: url({{ site.baseurl }}/images/mongolian-vodka.jpg)
+background-size: cover
 ???
 
 ... alcohol een nasleep van meerdere dagen heeft.
@@ -638,7 +651,8 @@ background-size: cover
 Nu eet ik géén kaas wanneer ik mijn...
 ---
 
-# energie
+background-image: url({{ site.baseurl }}/images/20190308-snowshoeing.png)
+background-size: cover
 ???
 
 ... energie nodig heb;
@@ -672,6 +686,8 @@ background-size: cover
 
 Toen was mijn...
 ---
+
+template: title-light
 
 # slaap
 ???
@@ -740,12 +756,12 @@ background-size: cover
 ... Sleep Cycle luistert naar mijn bewegingen en wekt me ergens...
 ---
 
-# tussen 5:45 en 6:30
+# tussen 5:30 en 6:15
 ???
 
-... tussen 5:45 en 6:30 op het moment dat ik het lichtst slaap.
+... tussen half zes en kwart over zes, op het moment dat ik het lichtst slaap.
 
-Maar kan de tijd dat ik slaap nog...
+Maar, kan de tijd dat ik slaap nog...
 ---
 
 # efficiënter?
@@ -772,24 +788,29 @@ Twee trucs voor meer diepe slaap zijn...
 Ik eet direct voordat ik naar bed ga een theelepeltje...
 ---
 
-# honing
+template: title-white
+
+background-image: url({{ site.baseurl }}/images/honing.jpg)
+background-size: auto
 ???
 
-... honing. Vergelijk...
+... honing.
+
+Dat klinkt misschien gek, maar...
 ---
 
 background-image: url({{ site.baseurl }}/images/oura-without-honey.png)
 background-size: cover
 ???
 
-... deze nacht zonder honing met...
+... dit is een nacht zonder honing. Deze donkerpaarse blokjes zijn diepe slaap. Vergelijk dat met...
 ---
 
 background-image: url({{ site.baseurl }}/images/oura-with-honey.png)
 background-size: cover
 ???
 
-... deze nacht met: langer aaneensluitend en eerder in de nacht diepe slaap.
+... deze nacht met honing: langer aaneensluitend en eerder in de nacht diepe slaap.
 
 En ik smeer me in met een oplossing van...
 ---
@@ -800,18 +821,19 @@ En ik smeer me in met een oplossing van...
 ... magnesiumchloride, wat me...
 ---
 
-# meer diepe slaap
+background-image: url({{ site.baseurl }}/images/oura-with-magnesium.png)
+background-size: cover
 ???
 
-... meer diepe slaap geeft.
+... nog meer diepe slaap geeft.
 
-Daar pak ik nu ook nog af en toe een...
+Daar probeer ik nu ook nog af en toe een...
 ---
 
 # koude douche
 ???
 
-... koude douche bij, voor nog meer diepe slaap.
+... koude douche bij, maar de resultaten daarvan zijn nog onbeslist.
 
 Om mijn...
 ---
@@ -839,7 +861,15 @@ Om mijn...
 
 ... beperk ik alcohol tot één keer in de paar weken.
 
-Toen liet ik mijn bloed testen voor...
+Toen liet ik mijn...
+---
+
+template: title-light
+
+# bloed testen
+???
+
+... bloed testen voor...
 ---
 
 # vitamine D
@@ -910,7 +940,15 @@ Ik supplementeer nu...
 
 ... magnesium.
 
-Toen deed ik een DNA-onderzoek bij MyHeritage, waar uit naar voren kwam dat ik toch echt...
+Toen deed ik een...
+---
+
+template: title-light
+
+# DNA-onderzoek
+???
+
+... DNA-onderzoek bij MyHeritage, waar uit naar voren kwam dat ik toch echt...
 ---
 
 background-image: url({{ site.baseurl }}/images/myheritage.png)
@@ -919,14 +957,14 @@ background-size: cover
 
 ... hier uit de buurt kom.
 
-Maar dat onderzoek wordt veel interessanter toen ik de ruwe data uploadde naar...
+Maar dat onderzoek werd veel interessanter toen ik de ruwe data uploadde naar...
 ---
 
 background-image: url({{ site.baseurl }}/images/foundmyfitness.png)
 background-size: cover
 ???
 
-... FoundMyFitness, die mijn DNA analyseerde op momenteel geïdentificeerde genotypes.
+... FoundMyFitness, wat mijn DNA analyseerde op momenteel geïdentificeerde genotypes.
 
 Zo weet ik nu dat ik...
 * ... meerdere genotypes heb die geassocieerd worden met een verminderde opname en omzetting van...
@@ -936,28 +974,29 @@ Zo weet ik nu dat ik...
 ???
 
 * ... vitamine D;
-* ... op meerdere vlakken aanleg heb tot...
+* op meerdere vlakken aanleg heb tot...
 ---
 
 # obesitas en diabetes
 ???
 
-* ... obesitas en diabetes type 2, dus dat het goed is dat ik geen suiker eet;
-* ...
+* ... obesitas en diabetes type 2;
+* dat het dus goed is dat ik geen suiker eet;
+* dat ik...
 ---
 
 # cafeïne
 ???
 
 * ... cafeïne snel afbreek, dus gerust na de lunch nog een kopje koffie mag drinken zonder dat het mijn slaap beïnvloedt;
-* ... tot later in de ochtend verhoogde...
+* tot later in de ochtend verhoogde...
 ---
 
 # melatonine
 ???
 
 * ... melatonine heb, dus beter later ontbijt;
-* ...
+* en ...
 ---
 
 # korte telomeren
@@ -971,31 +1010,32 @@ template: list-dark
 ## stress
 ???
 
-... stress, ...
+* stress;
 --
 
 ## suiker
 ???
 
-... suiker, ...
+* suiker;
 --
 
 ## slaapgebrek
 ???
 
-... slaapgebrek, ...
+* slaapgebrek;
 --
 
 ## roken
 ???
 
-... roken of te lang achtereen...
+* roken;
+* of te lang achtereen...
 --
 
 ## zitten
 ???
 
-... zitten.
+* ... zitten.
 
 En er is nog veel...
 ---
@@ -1079,7 +1119,9 @@ background-size: cover
 # 2019
 ???
 
-2019 was voor mij een leerzaam jaar en ik hoop vanavond voor jullie een leerzame avond. Ik hoor heel graag hoe jij denkt over...
+2019 was voor mij een leerzaam jaar en, ik hoop, vanavond voor jullie een leerzame avond.
+
+Ik hoor heel graag hoe jij denkt over...
 ---
 
 # wat
@@ -1091,21 +1133,25 @@ background-size: cover
 # hoe
 ???
 
-... hoe ik net vertelde.
+... hóé ik het vertelde.
 ---
 
-template: list-dark
-
-## Don't be nice.
+# Don't be nice.
 ???
 
 Wees alsjeblieft niet aardig,...
 --
 
-## Be helpful.
+# Be helpful.
 ???
 
 ... help me beter worden.
+---
+
+# dankjewel
+???
+
+Dankjewel.
 ---
 
 template: title-black
@@ -1130,6 +1176,6 @@ template: title-black
 ## .footnote[.instagram[[Instagram: @sixwheelseast](https://www.instagram.com/sixwheelseast/)]]
 
 <!-- TODO
-* Replace all "  " with " "
+* Replace all " " with " "
 *
  -->
