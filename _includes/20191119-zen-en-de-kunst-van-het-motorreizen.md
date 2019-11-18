@@ -4,7 +4,7 @@ template: title-dark
 
 ## {{ page.author }}
 
-## .footnote[{{ page.location }}]
+### .footnote[{{ page.location }}]
 ???
 
 *c: Clone slideshow*
@@ -730,13 +730,13 @@ Heel erg versimpeld is diepe slaap...
 # herstel
 ???
 
-... herstel en REM-slaap het...
+... herstel en REM-slaap waar je...
 ---
 
-# verwerken
+# droom
 ???
 
-... verwerken van je dag.
+... droomt en je dag verwerkt.
 
 Vanuit een...
 ---
@@ -744,7 +744,7 @@ Vanuit een...
 # diepe slaap
 ???
 
-... diepe slaap gewekt worden is niet fijn, dan begin je met een achterstand.
+... diepe slaap gewekt worden is niet fijn, dan begin je je dag al met een achterstand.
 
 De app...
 ---
@@ -761,7 +761,7 @@ background-size: cover
 
 ... tussen half zes en kwart over zes, op het moment dat ik het lichtst slaap.
 
-Maar, kan de tijd dat ik slaap nog...
+Maar, kan de tijd dàt ik slaap nog...
 ---
 
 # efficiënter?
@@ -1160,9 +1160,7 @@ template: title-black
 
 ## {{ page.author }}
 
-### {{ page.location }}
-
-## .footnote[.twitter[[Twitter: @harmtemolder](https://twitter.com/harmtemolder)]]
+### .footnote[.twitter[[Twitter: @harmtemolder](https://twitter.com/harmtemolder)]]
 ---
 
 template: title-black
@@ -1171,9 +1169,7 @@ template: title-black
 
 ## {{ page.author }}
 
-### {{ page.location }}
-
-## .footnote[.instagram[[Instagram: @sixwheelseast](https://www.instagram.com/sixwheelseast/)]]
+### .footnote[.instagram[[Instagram: @sixwheelseast](https://www.instagram.com/sixwheelseast/)]]
 
 <!-- TODO
 * Replace all " " with " "

@@ -116,12 +116,12 @@ blockquote .source {
   text-decoration: none;
 }
 
-.footnote .inverse, .footnote .inverse a {
+.inverse .footnote, .inverse .footnote a {
   background-color: $light;
   color: $dark !important;
 }
 
-.footnote .black, .footnote .black a {
+.black .footnote, .black .footnote a {
   background-color: $light;
   color: #000 !important;
 }
