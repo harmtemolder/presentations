@@ -37,14 +37,22 @@ template: title-dark
 # Harm
 ???
 
-Harm en ik ben nu alweer een klein jaar terug van een reis naar...
+Harm en ik ben hier vanavond om van jullie te...
+---
+
+# leren
+???
+
+... leren. Dat klinkt misschien gek, terwijl ik jullie hier wat ga vertellen, maar wat ik bedoel is dat ik benieuwd ben naar hoe jij denkt over wat ik vertel. Dus onderbreek me, alsjeblieft. Ook wanneer ik dieper op een onderwerp in mag gaan.
+
+Ik ben nu alweer een klein jaar terug van een reis naar...
 ---
 
 background-image: url({{ site.baseurl }}/images/mongolian-flag.jpg)
 background-size: cover
 ???
 
-Mongolië. Vanavond vertel ik jullie over wat ik...
+Mongolië en vanavond vertel ik jullie over wat ik...
 ---
 
 # voor
@@ -78,7 +86,7 @@ background-size: cover
 
 ... ik woon eigenlijk al een jaar nergens. Ik heb het afgelopen jaar op huizen en de bijbehorende honden en katten van vrienden, vrienden van vrienden en vreemden gepast. Zo woonde ik achtereenvolgens in Utrecht, Den Bosch, Utrecht, Hoofddorp, Diemen, Den Bosch en Utrecht.
 
-Dat deed ik samen met mijn vriendin, ...
+Dat deed ik samen met mijn vriendin...
 ---
 
 background-image: url({{ site.baseurl }}/images/20180727-113818-loes-in-the-gobi.png)
@@ -93,7 +101,7 @@ We zijn al tien jaar samen, maar nee, we hebben ...
 # geen trouwringen of kinderen
 ???
 
-... geen trouwringen of kinderen. Zo nu en dan mogen we...
+... geen trouwringen of kinderen, al mochten we tijdens de reis zo nu en dan...
 ---
 
 background-image: url({{ site.baseurl }}/images/20170924-095642-two-babies-on-my-bike.png)
@@ -200,7 +208,9 @@ background-image: url({{ site.baseurl }}/images/universiteit-van-amsterdam.jpg)
 background-size: cover
 ???
 
-... en een master marketingcommunicatie in Amsterdam. Tijdens het schrijven van mijn bachelor-thesis liep ik stage bij...
+... en een master marketingcommunicatie in Amsterdam.
+
+Tijdens het schrijven van mijn bachelor-thesis liep ik stage bij...
 ---
 
 background-image: url({{ site.baseurl }}/images/expand-online.png)
@@ -222,7 +232,7 @@ background-image: url({{ site.baseurl }}/images/autopilot.jpg)
 background-size: cover
 ???
 
-... automatische piloot rolde ik van de ene rol in de andere. Toen nam ik de bewuste keuze om die automatische piloot...
+... automatische piloot rolde ik van de ene rol in de andere. En toen nam ik de bewuste keuze om die automatische piloot...
 ---
 
 template: title-black
@@ -259,7 +269,7 @@ background-size: cover
 
 * Oostenrijk over Slovenië,
 * Slovenië over Kroatië,
-* Kroatië over Bosnië,
+* Bosnië,
 * Kosovo,
 * Macedonië,
 * Griekenland,
@@ -273,23 +283,20 @@ background-size: cover
 * ... Turkije,
 * Georgië,
 * Rusland,
-* Kazachstan,
-* en daarna niet meer.
+* Kazachstan...
 
-Ik heb liever spijt van de dingen die ik wel gedaan heb dan van de dingen die ik niet deed, ...
+Maar goed, terug naar mij: Ik heb liever spijt van de dingen die ik wel gedaan heb dan van de dingen die ik niet deed, wat iemand ooit heel mooi in het Engels verwoordde:
 ---
 
 template: quote-dark
 
 > “Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.”
 
-> .source[&mdash; not Mark Twain]
-
 ???
 
 ... dit dus.
 
-En met die wijsheid in mijn achterhoofd vertrok ik op de motor naar...
+Met die wijsheid in mijn achterhoofd vertrok ik op de motor naar...
 ---
 
 background-image: url({{ site.baseurl }}/images/eurazie.png)
@@ -301,7 +308,7 @@ background-size: cover
 
 ???
 
-Eerder ging mijn energie altijd op aan...
+Daarvoor ging mijn energie altijd op aan...
 ---
 
 # 36
@@ -325,7 +332,7 @@ domibo, nog eens...
 # 9
 ???
 
-... 9 uur op kantoor aanwezig zijn, een...
+... 9 uur op kantoor aanwézig zijn, een...
 ---
 
 # .accent[vrij]dag.accent[mi]ddag.accent[bo]rrel
@@ -337,7 +344,13 @@ domibo, nog eens...
 # weekend
 ???
 
-... weekend om bij te komen. Maar nu had ik ineens meer tijd en...
+... weekend om bij te komen. Maar nu had ik ineens meer...
+---
+
+# tijd
+???
+
+... tijd en...
 ---
 
 # energie
@@ -375,9 +388,15 @@ En zo begon voorzichtig mijn...
 # zoektocht
 ???
 
-... zoektocht naar fysieke optimalisatie.
+... zoektocht naar fysieke...
+---
 
-Offroad...
+# optimalisatie
+???
+
+... optimalisatie.
+
+Met een motor offroad...
 ---
 
 background-image: url({{ site.baseurl }}/images/20170723-133046-water-crossing.png)
@@ -562,7 +581,7 @@ background-size: cover
 
 ... met méér dan 1 ingrediënt op de verpakking. En eigenlijk ook zo min mogelijk verpakkingen, maar zoals je ziet is dat lastig in Nederlandse supermarkten.
 
-En ik liet voedingsgroepen weg waar gevoeligheden voor bekend zijn:
+En tegelijk liet ik voedingsgroepen weg waar gevoeligheden voor bekend zijn:
 ---
 
 template: list-dark
@@ -744,13 +763,13 @@ Heel erg versimpeld is diepe slaap...
 
 ... droomt en je dag verwerkt.
 
-Vanuit een...
+Wanneer je wekker afgaat tijdens je...
 ---
 
 # diepe slaap
 ???
 
-... diepe slaap gewekt worden is niet fijn, dan begin je je dag al met een achterstand.
+... diepe slaap moet je van ver komen. Dan begin je je dag al met een achterstand.
 
 De app...
 ---
@@ -926,7 +945,7 @@ Ik supplementeer nu...
 # 2,3 g omega 3
 ???
 
-... 2,3 gram omega 3, een...
+... 2,3 gram omega 3 op dagen dat ik geen vis eet, een...
 ---
 
 # vitamine B-complex
@@ -1115,7 +1134,7 @@ background-image: url({{ site.baseurl }}/images/jim-kwik.png)
 background-size: cover
 ???
 
-Deze man, Jim Kwik, schijnt een methode te hebben ontwikkeld om je geheugen tot bijna onmenselijke prestaties te trainen. Hier induiken staat als volgende op mijn agenda, dus ik kan je helaas nog niet vertellen of en hoe goed het werkt.
+Deze man, Jim Kwik, schijnt een methode te hebben ontwikkeld om je geheugen tot bijna onmenselijke prestaties te trainen. Hier induiken staat als volgende op mijn agenda, dus ik kan je helaas nog niet vertellen òf en hoe góéd het werkt.
 
 Waar ik wel al stappen in gezet heb is om zo min mogelijk te vergeten door alles op te schrijven in...
 ---
@@ -1164,7 +1183,7 @@ background-image: url({{ site.baseurl }}/images/strava-hoofddorp.png)
 background-size: cover
 ???
 
-... fietste ik naar kantoor, afgelopen jaar. Maar ik lees en hoordat  je voor de meest merkbare effecten op je gezondheid en lichaam het beste kunt gewichtheffen. Voor nu doe ik dat beperkt, op basis van mijn eigen lichaamsgewicht: Elke ochtend na mijn meditatie...
+... fietste ik naar kantoor, afgelopen jaar. Maar ik lees en hoor dat  je voor de meest merkbare effecten op je gezondheid en lichaam het beste kunt gewichtheffen. Voor nu doe ik dat beperkt, op basis van mijn eigen lichaamsgewicht: Elke ochtend na mijn meditatie...
 ---
 
 background-image: url({{ site.baseurl }}/images/just-6-weeks.png)
